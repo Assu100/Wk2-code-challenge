@@ -6,3 +6,7 @@ body {
     background-color: bisque;
 }
 
+.purchased {
+    text-decoration: line-through;
+    background-color: #d4ffd4;
+  }
